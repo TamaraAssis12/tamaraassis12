@@ -1,4 +1,8 @@
-### Hi there 👋
+# Olá! Eu sou Tamara de Assis 👋
+
+### Sobre mim
+Sou desenvolvedora web com formação em Engenharia de Software. 
+
 
 <!--
 **TamaraAssis12/tamaraassis12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
